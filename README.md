@@ -20,3 +20,4 @@ This is a small game I made using an Arduino Nano for the class Physical Computi
 * Both LEDs will turn on, telling you that you're now in win condition selection mode.
 * Pressing the button that corresponds to the green LED will increment the score by 1, starting at 1.
 * When the desired win condition is reached, pressing the button corresponding to the red LED will start the game.
+* In addition, information such as the current score, winning score, and winning score selection is printed to the Serial monitor for ease of use.
