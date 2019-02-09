@@ -23,3 +23,4 @@ This is a small game I made using an Arduino Nano for the class Physical Computi
 * In addition, information such as the current score, winning score, and winning score selection is printed to the Serial monitor for ease of use.
 
 ### [Playthrough Video](https://www.youtube.com/watch?v=hjvMCKd2QWc)
+In the video I play two standard rounds, going to 20 points. I then show off the win condition selection mode, set to 4 points.
